@@ -82,7 +82,7 @@ now, we can online run this command ```npm run dev```
 
 ## Start the Tailwind CLI build process
 
-now, we can online run this command ```npm run dev```
+now, we can run this command ```npm run dev```
 
 
 ## Start using Tailwind in your HTML
