@@ -80,8 +80,11 @@ Link ```style.css``` with ```index.html```
 
 now, we can online run this command ```npm run dev```
 
-
 ## Start the Tailwind CLI build process
+
+now, we can online run this command ```npm run dev```
 
 
 ## Start using Tailwind in your HTML
+
+Open ```index.html``` in your browser to see results
